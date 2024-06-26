@@ -11,7 +11,7 @@
  * Plugin URI: https://cp-psource.github.io/ps-padma-advanced/
  * Description: Expand the possibilities and simplify the design and development processes of WordPress + Padma Theme based websites.
  * Version: 0.0.2
- * Requires at least: 5.2
+ * Requires at least: 4.9
  * Requires PHP: 7.0
  * Author: PSOURCE
  * Author URI: https://github.com/cp-psource

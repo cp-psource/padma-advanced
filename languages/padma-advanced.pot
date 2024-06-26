@@ -128,7 +128,7 @@ msgid "Padma Advanced require Padma Unlimited theme to be active . "
 msgstr ""
 
 #: admin/partials/padma-advanced-require-plugin-shortcodes-ultimate.php:16
-msgid "Padma Advanced require Shortcodes Ultimate be active . "
+msgid "Padma Advanced require PSOURCE Shortcodes be active . "
 msgstr ""
 
 #: admin/partials/padma-advanced-require-plugin-visual-elements.php:16

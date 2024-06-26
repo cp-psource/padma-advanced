@@ -164,7 +164,7 @@ class Padma_Advanced_Admin extends Padma_Settings {
 						'no'  => __( 'No', 'padma-advanced' ),
 					),
 					'value'   => 'yes',
-					'tooltip' => __( 'Enable Shortcodes Ultimate compatibility', 'mojito-shipping' ),
+					'tooltip' => __( 'Enable PSOURCE Shortcodes compatibility', 'mojito-shipping' ),
 				),
 			),
 			'box-id'      => 'settings',
