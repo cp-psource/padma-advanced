@@ -87,7 +87,7 @@ class PadmaVisualElementsBlockLightbox extends \PadmaBlockAPI {
 	 */
 	public function init() {
 
-		if ( ! class_exists( 'Shortcodes_Ultimate' ) ) {
+		if ( ! class_exists( 'PSOURCE_Shortcodes' ) ) {
 			return false;
 		}
 

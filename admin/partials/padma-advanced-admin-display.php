@@ -22,7 +22,7 @@ if ( ! class_exists( 'Padma' ) ) {
 	require_once PADMA_ADVANCED_DIR . 'admin/partials/padma-advanced-require-padma.php';
 }
 
-if ( ! class_exists( 'Shortcodes_Ultimate' ) && 'yes' === get_option( 'padma-advanced-settings-enable-shortcodes-ultimate' ) ) {
+if ( ! class_exists( 'PSOURCE_Shortcodes' ) && 'yes' === get_option( 'padma-advanced-settings-enable-shortcodes-ultimate' ) ) {
 	require_once PADMA_ADVANCED_DIR . 'admin/partials/padma-advanced-require-plugin-shortcodes-ultimate.php';
 }
 
