@@ -22,18 +22,6 @@ if ( ! class_exists( 'Padma' ) ) {
 	require_once PADMA_ADVANCED_DIR . 'admin/partials/padma-advanced-require-padma.php';
 }
 
-if ( ! class_exists( 'PSOURCE_Shortcodes' ) && 'yes' === get_option( 'padma-advanced-settings-enable-shortcodes-ultimate' ) ) {
-	require_once PADMA_ADVANCED_DIR . 'admin/partials/padma-advanced-require-plugin-shortcodes-ultimate.php';
-}
-
-/**
- * Detect active Padma plugins.
- */
-if ( function_exists( 'is_plugin_active' ) && is_plugin_active( 'padma-visual-elements/padma-visual-elements.php' ) ) {
-	require_once PADMA_ADVANCED_DIR . 'admin/partials/padma-advanced-require-plugin-visual-elements.php';
-}
-
-
 
 if ( $load ) {
 

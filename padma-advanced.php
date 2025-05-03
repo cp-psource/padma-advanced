@@ -94,6 +94,10 @@ register_deactivation_hook(
  */
 require PADMA_ADVANCED_DIR . 'includes/class-padma-advanced.php';
 
+/**
+ * Prüft ob PSOURCE Shortcodes installiert ist.
+ */
+require_once plugin_dir_path( __FILE__ ) . 'includes/register-required-plugins.php';
 
 /**
  * Begins execution.
