@@ -10,7 +10,7 @@
  * Plugin Name: Padma Advanced
  * Plugin URI: https://cp-psource.github.io/ps-padma-advanced/
  * Description: Expand the possibilities and simplify the design and development processes of WordPress + Padma Theme based websites.
- * Version: 0.0.2
+ * Version: 0.0.3
  * Requires at least: 4.9
  * Requires PHP: 7.0
  * Author: PSOURCE
@@ -56,7 +56,7 @@ if ( ! defined( 'WPINC' ) ) {
 /**
  * Version.
  */
-define( 'PADMA_ADVANCED_VERSION', '0.0.2' );
+define( 'PADMA_ADVANCED_VERSION', '0.0.3' );
 
 
 /**

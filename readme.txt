@@ -3,8 +3,8 @@ Contributors: nomanualdev
 Donate link: #
 Tags: page builder, editor, landing page, drag-and-drop, padma unlimited, visual editor, wysiwyg, design, maintenance mode, coming soon, under construction, website builder, landing page builder, front-end builder
 Requires at least: 4.6
-Tested up to: 5.7.2
-Stable tag: 0.0.2
+Tested up to: 6.8.1
+Stable tag: 0.0.3
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -133,6 +133,11 @@ Yes it does. You can download it from https://github.com/cp-psource/ps-padma/rel
 Freemius SDK updated. Padma Edge version compatibility updates.
 
 == Changelog ==
+
+= 0.0.3 =
+
+* Several Bugfixes
+* New Routine for PSOURCE Shortcodes
 
 = 0.0.13 =
 * Initial Release
