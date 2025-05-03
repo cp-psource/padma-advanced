@@ -32,9 +32,9 @@ require 'psource/psource-plugin-update/plugin-update-checker.php';
 use YahnisElsts\PluginUpdateChecker\v5\PucFactory;
  
 $myUpdateChecker = PucFactory::buildUpdateChecker(
-	'https://github.com/cp-psource/ps-padma-advanced',
+	'https://github.com/cp-psource/padma-advanced',
 	__FILE__,
-	'ps-padma-advanced'
+	'padma-advanced'
 );
  
 //Set the branch that contains the stable release.
